@@ -1,0 +1,6 @@
+{
+  "name": "Othello",
+  "description": "A beautifully crafted, offline-capable Reversi (Othello) game featuring smart local algorithmic AI, real-time hints, moves history, and premium fluid board theme presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
